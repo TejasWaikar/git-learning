@@ -1,2 +1,4 @@
 this is first file
 add another line ot text and commit it
+add another line ot text and commit it
+add another line ot text and commit it
